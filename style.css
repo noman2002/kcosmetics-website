@@ -64,3 +64,7 @@ header{
   margin-top: 80px;
   background-color: black;
 }
+.btn span{
+  font-size: 20px;
+  color: white;
+}
