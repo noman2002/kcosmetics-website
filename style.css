@@ -56,3 +56,15 @@ header{
     width: 100%
 
 }
+
+.btn{
+  width: 200px;
+  height: 50px;
+  margin-left: 30%;
+  margin-top: 80px;
+  background-color: black;
+}
+.btn span{
+  font-size: 20px;
+  color: white;
+}
